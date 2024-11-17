@@ -5,3 +5,5 @@
 | Python   | Beginner  | Great for starters|
 | Java     | Intermediate | Popular in enterprise|
 | JavaScript| Advanced | Widely used for web |
+
+![WAIYAN](image.png)
