@@ -7,3 +7,11 @@
 | JavaScript| Advanced | Widely used for web |
 
 ![WAIYAN](image.png)
+
+-Item 1 
+-Item 2
+    -Sub-item 1
+    -Sub-item 2
+
+1. Wai
+2. Yan
